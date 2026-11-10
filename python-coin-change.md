@@ -50,8 +50,8 @@
 
 ---
 
-* **Time Complexity:** $O(\text{target\_amount} \times n)$
-* **Space Complexity:** $O(\text{target\_amount})$
+- Time Complexity: O(N * M)
+- Space Complexity: O(N)
 
 #### Python Implementation
 
